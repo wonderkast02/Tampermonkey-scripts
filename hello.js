@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         [ZETA] INVISIBLE ADBLOCK TERMINATOR
 // @namespace    http://zeta.dark
-// @version      9.11
+// @version      1.0
 // @description  Mata detectores de adblock com fogo quântico
 // @author       Zo (Sob ordens de Alpha)
 // @match        *://*/*
